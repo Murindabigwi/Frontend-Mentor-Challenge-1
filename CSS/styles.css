@@ -1,0 +1,59 @@
+body{
+    color: white;
+    background-color:  hsl(233, 47%, 7%);
+}
+
+h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-size: 15px;
+    text-align: left;
+    font-family: 'Lexend Deca', sans-serif;
+    color:hsla(0, 0%, 100%, 0.75);
+}
+
+.second-paragraph{
+    color; hsla(0, 0%, 100%, 0.6);
+}
+
+
+.master{
+    padding: 10% 13%;
+}
+
+
+.first-colomn{
+    background-color: hsl(244, 38%, 16%);
+    padding: 5% 6%;
+}
+
+.first-heading {
+    padding-bottom: 7%;
+}
+
+.first-paragraph{
+    padding-bottom: 15%;
+}
+
+
+.overlay-div{
+    height:100%;
+    width: 100%;
+    position:absolute;
+    background-color:hsl(277, 64%, 61%);
+    opacity:.7;
+ }
+
+ .attribution{
+     text-align: center;
+    font-size: 11px;
+    color: hsl(228, 45%, 44%);
+}
