@@ -40,6 +40,6 @@ Users should be able to:
 ## Author
 
 - Website - [https://murindabigwi.github.io/Frontend-Mentor-Challenge-1/]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/MURINDABGWI David/@Murindabigwi]
 
 
