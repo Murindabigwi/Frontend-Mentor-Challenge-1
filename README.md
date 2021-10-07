@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Murindabigwi/Frontend-Mentor-Challenge-1)
-- Live Site URL: [Add live site URL here](https://murindabigwi.github.io/Frontend-Mentor-Challenge-1/)
+- Solution URL: [https://github.com/Murindabigwi/Frontend-Mentor-Challenge-1]
+- Live Site URL: [https://murindabigwi.github.io/Frontend-Mentor-Challenge-1/]
 
 ### Built with
 
@@ -39,7 +39,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Murindabigwi David](https://murindabigwi.github.io/Frontend-Mentor-Challenge-1/)
+- Website - [https://murindabigwi.github.io/Frontend-Mentor-Challenge-1/]
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 
