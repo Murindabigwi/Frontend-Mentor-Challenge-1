@@ -25,9 +25,9 @@ p{
 }
 
 
-.master{
-    padding: 10% 13%;
-}
+ .master{
+    padding: 8% 13%;
+} 
 
 
 .first-colomn{
@@ -43,14 +43,6 @@ p{
     padding-bottom: 15%;
 }
 
-
-.overlay-div{
-    height:100%;
-    width: 100%;
-    position:absolute;
-    background-color:hsl(277, 64%, 61%);
-    opacity:.7;
- }
 
  .attribution{
      text-align: center;
